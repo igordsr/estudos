@@ -31,3 +31,29 @@ Repositório para armazenar resumos sobre o Git e Github
 ```
     git add README.md
 ```
+
+3. Para fazer o commit das alterações
+```
+    git commit -m 'Seu texto de descrição do commit'
+```
+
+4. Para ver os logs do commit
+```
+    git log
+```
+
+5. Para desfazer modificações feitas em algum arquivo
+```
+    git restore nome_do_arquivo.txt
+```
+
+6. Para alterar descrição do ultimo commit
+```
+    git commit --amend -m "Incluindo comandos do git"
+```
+ou
+
+```
+    git commit --amend
+```
+Esse ultimo comando ele vai abrir o editor para editar o commit, ai só apertar a tecla I em seguida editar o commit, para sair apenas precionsar a tecla "esc" depois ":" e escrever wq e apertar "enter"
