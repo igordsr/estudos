@@ -57,3 +57,18 @@ ou
     git commit --amend
 ```
 Esse ultimo comando ele vai abrir o editor para editar o commit, ai só apertar a tecla I em seguida editar o commit, para sair apenas precionsar a tecla "esc" depois ":" e escrever wq e apertar "enter"
+
+7. Removendo intens comitados da area de preparação
+```
+    git reset --soft hashcomit_qiueyqiuwyeuqywie
+```
+
+8. Removendo intens comitados da area de preparação
+```
+    git reset --soft hashcomit_qiueyqiuwyeuqywie
+```
+
+9. Vinculando um repositório local ao repositório no servidor
+```
+    git remote add origin https://github.com/igordsr/estudos.git
+```
