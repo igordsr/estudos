@@ -7,6 +7,8 @@ Repositório para armazenar resumos sobre o Git e Github
 
 - [Documentação Github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
+- [Curso de referência Git](https://github.com/elidianaandrade/dio-curso-git-github)
+
 ## 🖥️ Resumos das Aulas
 
 | Aulas | Resumo |
@@ -90,6 +92,12 @@ Esse ultimo comando ele vai abrir o editor para editar o commit, ai só apertar 
 
 13. Atualizando a branch local com as informações da branch remota
 ```
+    git merge origin/main
+```
+
+ou
+
+```
     git merge nome_da_branch origin
 ```
 
@@ -101,4 +109,8 @@ Esse ultimo comando ele vai abrir o editor para editar o commit, ai só apertar 
 15. Baixando atualizações do diretório remoto mas sem alterar a branch local
 ```
     git fetch origin main
+```
+
+16. Enviando commits para e repositório remoto
+    git push origin nome_da_branch
 ```
