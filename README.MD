@@ -82,3 +82,8 @@ Esse ultimo comando ele vai abrir o editor para editar o commit, ai só apertar 
 ```
     git checkout nome_da_branch
 ```
+
+12. Baixando as atualizações do diretório remoto
+```
+    git pull
+```
