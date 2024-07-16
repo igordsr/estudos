@@ -90,6 +90,12 @@ Esse ultimo comando ele vai abrir o editor para editar o commit, ai só apertar 
 
 13. Atualizando a branch local com as informações da branch remota
 ```
+    git merge origin/main
+```
+
+ou
+
+```
     git merge nome_da_branch origin
 ```
 
