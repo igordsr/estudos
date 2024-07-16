@@ -7,6 +7,8 @@ Repositório para armazenar resumos sobre o Git e Github
 
 - [Documentação Github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
+- [Curso de referência Git](https://github.com/elidianaandrade/dio-curso-git-github)
+
 ## 🖥️ Resumos das Aulas
 
 | Aulas | Resumo |
