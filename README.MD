@@ -110,3 +110,7 @@ ou
 ```
     git fetch origin main
 ```
+
+16. Enviando commits para e repositório remoto
+    git push origin nome_da_branch
+```
