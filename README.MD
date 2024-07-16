@@ -72,3 +72,13 @@ Esse ultimo comando ele vai abrir o editor para editar o commit, ai só apertar 
 ```
     git remote add origin https://github.com/igordsr/estudos.git
 ```
+
+10. Criando uma branch
+```
+    git branch nome_da_branch
+```
+
+11. Selecionando um branch
+```
+    git checkout nome_da_branch
+```
