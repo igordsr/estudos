@@ -97,3 +97,8 @@ Esse ultimo comando ele vai abrir o editor para editar o commit, ai só apertar 
 ```
     git branch -d nome_da_branch
 ```
+
+15. Baixando atualizações do diretório remoto mas sem alterar a branch local
+```
+    git fetch origin main
+```
