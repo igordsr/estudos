@@ -87,3 +87,13 @@ Esse ultimo comando ele vai abrir o editor para editar o commit, ai só apertar 
 ```
     git pull
 ```
+
+13. Atualizando a branch local com as informações da branch remota
+```
+    git merge nome_da_branch origin
+```
+
+14. Deletando uma branch
+```
+    git branch -d nome_da_branch
+```
